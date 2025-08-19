@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/models/m-e02223cdfe1543d0884d04b4f8ddb801/artifacts
+creation_timestamp: 1755452907079
+experiment_id: '260487540871988929'
+last_updated_timestamp: 1755452910013
+model_id: m-e02223cdfe1543d0884d04b4f8ddb801
+model_type: null
+name: model
+source_run_id: f7decd3dbf8a41cb829ea416aa096bdb
+status: 2
+status_message: null

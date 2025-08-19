@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/95c98bcea45f4d3886b88c5a72730ad2/artifacts
+end_time: 1755451556004
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 95c98bcea45f4d3886b88c5a72730ad2
+run_name: capable-mule-341
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451552996
+status: 3
+tags: []
+user_id: ADMIN

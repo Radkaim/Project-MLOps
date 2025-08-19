@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/4beeed21c8d74d69998f59ea6ab4baee/artifacts
+end_time: 1755626741942
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 4beeed21c8d74d69998f59ea6ab4baee
+run_name: luminous-snail-870
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755626738812
+status: 3
+tags: []
+user_id: ADMIN

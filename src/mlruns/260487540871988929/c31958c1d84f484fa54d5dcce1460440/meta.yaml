@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/c31958c1d84f484fa54d5dcce1460440/artifacts
+end_time: 1755451595904
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: c31958c1d84f484fa54d5dcce1460440
+run_name: masked-eel-9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451592564
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/d016b1bb64ec47f884f8d3f5b312d9c7/artifacts
+end_time: 1755449747126
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: d016b1bb64ec47f884f8d3f5b312d9c7
+run_name: salty-shrimp-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755449745071
+status: 4
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/dbb631970d924a18bf668a601d4f9fa7/artifacts
+end_time: 1755626723165
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: dbb631970d924a18bf668a601d4f9fa7
+run_name: marvelous-seal-773
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755626719187
+status: 3
+tags: []
+user_id: ADMIN

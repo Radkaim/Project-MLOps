@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/5804f098635c43b397209b87b04c14b3/artifacts
+end_time: 1755626797792
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 5804f098635c43b397209b87b04c14b3
+run_name: colorful-owl-256
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755626794062
+status: 3
+tags: []
+user_id: ADMIN

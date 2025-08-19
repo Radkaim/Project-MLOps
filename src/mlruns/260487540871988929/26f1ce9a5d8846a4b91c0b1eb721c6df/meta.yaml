@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/26f1ce9a5d8846a4b91c0b1eb721c6df/artifacts
+end_time: 1755452951666
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 26f1ce9a5d8846a4b91c0b1eb721c6df
+run_name: dazzling-ram-150
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452945895
+status: 3
+tags: []
+user_id: ADMIN

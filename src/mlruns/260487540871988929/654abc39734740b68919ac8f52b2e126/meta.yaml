@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/654abc39734740b68919ac8f52b2e126/artifacts
+end_time: 1755449814999
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 654abc39734740b68919ac8f52b2e126
+run_name: vaunted-newt-105
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755449812059
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/271dc93e0c724906ab0103756748379d/artifacts
+end_time: 1755451592556
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 271dc93e0c724906ab0103756748379d
+run_name: debonair-carp-450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451589223
+status: 3
+tags: []
+user_id: ADMIN

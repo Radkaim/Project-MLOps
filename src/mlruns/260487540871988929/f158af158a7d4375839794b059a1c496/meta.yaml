@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/f158af158a7d4375839794b059a1c496/artifacts
+end_time: 1755449812049
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: f158af158a7d4375839794b059a1c496
+run_name: nervous-panda-550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755449809092
+status: 3
+tags: []
+user_id: ADMIN

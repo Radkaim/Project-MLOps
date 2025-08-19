@@ -1,0 +1,10 @@
+artifact_location: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/models/m-a8cf7179419f4d4e893aee3578be6547/artifacts
+creation_timestamp: 1755452976968
+experiment_id: '260487540871988929'
+last_updated_timestamp: 1755452979880
+model_id: m-a8cf7179419f4d4e893aee3578be6547
+model_type: null
+name: BestClassifier
+source_run_id: b7d4d22e24d04a55b0be7b267f4843e6
+status: 2
+status_message: null

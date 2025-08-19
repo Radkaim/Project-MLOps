@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/ee0c72cfec4347e5b51abfee8f935773/artifacts
+end_time: 1755452888188
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: ee0c72cfec4347e5b51abfee8f935773
+run_name: welcoming-fowl-845
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452884260
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/759f930152e8484ca6d5dc5548176151/artifacts
+end_time: 1755452916232
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 759f930152e8484ca6d5dc5548176151
+run_name: burly-quail-253
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452913143
+status: 3
+tags: []
+user_id: ADMIN

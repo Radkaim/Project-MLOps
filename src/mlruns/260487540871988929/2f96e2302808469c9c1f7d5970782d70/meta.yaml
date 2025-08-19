@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/2f96e2302808469c9c1f7d5970782d70/artifacts
+end_time: 1755452930747
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 2f96e2302808469c9c1f7d5970782d70
+run_name: persistent-roo-630
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452926420
+status: 3
+tags: []
+user_id: ADMIN

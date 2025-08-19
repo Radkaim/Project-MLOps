@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/b545e12e0ca649e2aeb8d7d2e326f444/artifacts
+end_time: 1755451376629
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: b545e12e0ca649e2aeb8d7d2e326f444
+run_name: vaunted-dolphin-349
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451372802
+status: 3
+tags: []
+user_id: ADMIN

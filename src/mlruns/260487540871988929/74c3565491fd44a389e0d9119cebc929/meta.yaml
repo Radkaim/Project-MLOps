@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/74c3565491fd44a389e0d9119cebc929/artifacts
+end_time: 1755626754419
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 74c3565491fd44a389e0d9119cebc929
+run_name: placid-perch-601
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755626751295
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/8b0a01da13d54325a7e9d91f983993be/artifacts
+end_time: 1755451419733
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 8b0a01da13d54325a7e9d91f983993be
+run_name: puzzled-midge-460
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451419702
+status: 4
+tags: []
+user_id: ADMIN

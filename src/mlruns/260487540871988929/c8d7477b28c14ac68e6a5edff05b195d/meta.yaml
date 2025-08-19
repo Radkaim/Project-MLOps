@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/c8d7477b28c14ac68e6a5edff05b195d/artifacts
+end_time: 1755626775607
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: c8d7477b28c14ac68e6a5edff05b195d
+run_name: placid-lamb-903
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755626770606
+status: 3
+tags: []
+user_id: ADMIN

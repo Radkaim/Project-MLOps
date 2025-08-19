@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/2c464e3be4c847129a921b0d848f2bfc/artifacts
+end_time: 1755452962455
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 2c464e3be4c847129a921b0d848f2bfc
+run_name: grandiose-conch-861
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452958673
+status: 3
+tags: []
+user_id: ADMIN

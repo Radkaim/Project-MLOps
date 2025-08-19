@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/ce1a4e1136904730ad212954c4d05dcb/artifacts
+end_time: 1755452897561
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: ce1a4e1136904730ad212954c4d05dcb
+run_name: learned-moose-822
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452894463
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/9569a3882a4d44bca20eb6e0e3be1d51/artifacts
+end_time: 1755452945883
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 9569a3882a4d44bca20eb6e0e3be1d51
+run_name: beautiful-wolf-290
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452940098
+status: 3
+tags: []
+user_id: ADMIN

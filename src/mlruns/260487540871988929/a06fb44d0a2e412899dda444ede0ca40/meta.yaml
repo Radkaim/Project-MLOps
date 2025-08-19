@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/a06fb44d0a2e412899dda444ede0ca40/artifacts
+end_time: 1755449826983
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: a06fb44d0a2e412899dda444ede0ca40
+run_name: BestModel
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755449823980
+status: 3
+tags: []
+user_id: ADMIN

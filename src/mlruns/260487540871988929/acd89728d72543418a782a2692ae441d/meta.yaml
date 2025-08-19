@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/acd89728d72543418a782a2692ae441d/artifacts
+end_time: 1755626751286
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: acd89728d72543418a782a2692ae441d
+run_name: carefree-yak-57
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755626748185
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/a9d0e9d842784591ae9488ecda016652/artifacts
+end_time: 1755449738997
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: a9d0e9d842784591ae9488ecda016652
+run_name: thoughtful-hawk-712
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755449735979
+status: 3
+tags: []
+user_id: ADMIN

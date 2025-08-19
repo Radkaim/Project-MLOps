@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/75fb3a77caa74991a9aaeab435272cd2/artifacts
+end_time: 1755451585937
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 75fb3a77caa74991a9aaeab435272cd2
+run_name: rogue-cat-508
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451582960
+status: 3
+tags: []
+user_id: ADMIN

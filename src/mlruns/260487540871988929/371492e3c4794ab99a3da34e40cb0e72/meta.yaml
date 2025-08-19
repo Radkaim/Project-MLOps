@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/371492e3c4794ab99a3da34e40cb0e72/artifacts
+end_time: 1755451412851
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 371492e3c4794ab99a3da34e40cb0e72
+run_name: rebellious-robin-115
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451409620
+status: 3
+tags: []
+user_id: ADMIN

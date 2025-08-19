@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/673035ca3da94663962ad4b07491c748/artifacts
+end_time: 1755451609673
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 673035ca3da94663962ad4b07491c748
+run_name: awesome-dog-604
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451606598
+status: 3
+tags: []
+user_id: ADMIN

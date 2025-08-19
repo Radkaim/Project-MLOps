@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/5a13b02ec5e24e43a455d109b18ad7e9/artifacts
+end_time: 1755626748176
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 5a13b02ec5e24e43a455d109b18ad7e9
+run_name: loud-dove-273
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755626745066
+status: 3
+tags: []
+user_id: ADMIN

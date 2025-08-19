@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/30fb3a7d69324d0faf44cbbc66b1fcc5/artifacts
+end_time: 1755451434020
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 30fb3a7d69324d0faf44cbbc66b1fcc5
+run_name: wise-zebra-857
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451430103
+status: 3
+tags: []
+user_id: ADMIN

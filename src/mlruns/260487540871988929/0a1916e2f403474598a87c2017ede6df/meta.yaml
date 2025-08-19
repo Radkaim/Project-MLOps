@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/0a1916e2f403474598a87c2017ede6df/artifacts
+end_time: 1755451457937
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 0a1916e2f403474598a87c2017ede6df
+run_name: adorable-elk-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451454925
+status: 3
+tags: []
+user_id: ADMIN

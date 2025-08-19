@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/71209f6df5ae4b6ab89e4e2020d2cac9/artifacts
+end_time: 1755452894454
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 71209f6df5ae4b6ab89e4e2020d2cac9
+run_name: polite-newt-990
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452891306
+status: 3
+tags: []
+user_id: ADMIN

@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/40a3772c0b6c4d46b663aae736a6c4a9/artifacts
+end_time: 1755452940088
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 40a3772c0b6c4d46b663aae736a6c4a9
+run_name: luminous-fawn-189
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452935172
+status: 3
+tags: []
+user_id: ADMIN

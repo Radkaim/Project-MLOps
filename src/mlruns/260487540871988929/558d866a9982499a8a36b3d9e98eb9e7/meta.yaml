@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/558d866a9982499a8a36b3d9e98eb9e7/artifacts
+end_time: 1755451570888
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 558d866a9982499a8a36b3d9e98eb9e7
+run_name: smiling-pug-643
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755451567924
+status: 3
+tags: []
+user_id: ADMIN

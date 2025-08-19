@@ -1,0 +1,14 @@
+artifact_uri: file:///D:/Hung-Data/MSE/Devops/Hung/src/mlruns/260487540871988929/23d9437f4f354fb984b978569667e9e9/artifacts
+end_time: 1755452958664
+entry_point_name: ''
+experiment_id: '260487540871988929'
+lifecycle_stage: active
+run_id: 23d9437f4f354fb984b978569667e9e9
+run_name: casual-colt-821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1755452955006
+status: 3
+tags: []
+user_id: ADMIN
